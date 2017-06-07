@@ -1,5 +1,7 @@
 #include <pebble.h>
 
+// test from github
+
 Window *my_window;
 TextLayer *text_layer;
 

@@ -1,0 +1,27 @@
+{
+    "author": "pebble@joshandbianca.net",
+    "dependencies": {},
+    "keywords": [],
+    "name": "testing",
+    "pebble": {
+        "capabilities": [
+            "health"
+        ],
+        "displayName": "Testing",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "diorite"
+        ],
+        "uuid": "2b053e0c-f496-48d5-80da-d855d62c5b19",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}

@@ -1,6 +1,7 @@
 #include <pebble.h>
 
 // test from github
+// test in cloudpebble
 
 Window *my_window;
 TextLayer *text_layer;
